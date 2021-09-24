@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djanngo.github.io</id>
     <title>Django</title>
-    <updated>2021-09-24T01:40:04.699Z</updated>
+    <updated>2021-09-24T01:54:24.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djanngo.github.io"/>
     <link rel="self" href="https://djanngo.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://djanngo.github.io/images/avatar.png</logo>
     <icon>https://djanngo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Django</rights>
+    <entry>
+        <title type="html"><![CDATA[火绒安全的守护]]></title>
+        <id>https://djanngo.github.io/post/huo-rong-an-quan-de-shou-hu/</id>
+        <link href="https://djanngo.github.io/post/huo-rong-an-quan-de-shou-hu/">
+        </link>
+        <updated>2021-09-24T01:48:49.000Z</updated>
+        <content type="html"><![CDATA[<p>火绒安全已经守护我的电脑520天啦😘<br>
+<img src="https://djanngo.github.io/post-images/1632448280410.png" alt="Snipaste_2021-09-24_09-51-09" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://djanngo.github.io/post/hello-gridea/</id>
